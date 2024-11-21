@@ -42,7 +42,7 @@ curl -X POST http://localhost:8080/auction \
      -d '{
        "product_name": "Samsung Smart TV 65 QLED 4K",
        "category": "Home Electronics",
-       "description": "QLED display with over 1 billion colors, 120Hz refresh rate and SmartThings compatibility."
+       "description": "QLED display with over 1 billion colors, 120Hz refresh rate and SmartThings compatibility.",
        "condition": 0
      }'
 ```
